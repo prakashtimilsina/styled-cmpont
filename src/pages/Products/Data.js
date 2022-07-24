@@ -1,0 +1,63 @@
+export const homeObjOne = {
+  lightBg: false,
+  primary: true,
+  imgStart: "",
+  lightTopLine: true,
+  lightText: true,
+  lightTextDesc: true,
+  buttonLabel: "Get Started",
+  description: "We help you out business owners increase their revenue.",
+  headLine: "Lead Generation Specialist for OnLine Business",
+  topLine: "Marketing Agency",
+  alt: "Image",
+  start: "",
+  img: require("../../images/business_chat.svg").default,
+};
+
+export const homeObjTwo = {
+  lightBg: true,
+  primary: false,
+  imgStart: "start",
+  lightTopLine: false,
+  lightText: false,
+  lightTextDesc: false,
+  buttonLabel: "Get Started",
+  description: "We help you out business owners increase their revenue.",
+  headLine: "Lead Generation Specialist for OnLine Business",
+  topLine: "Marketing Agency",
+  alt: "Image",
+  start: "true",
+  img: require("../../images/svg-3.svg").default,
+};
+
+export const homeObjThree = {
+  lightBg: false,
+  primary: true,
+  imgStart: "",
+  lightTopLine: true,
+  lightText: true,
+  lightTextDesc: true,
+  buttonLabel: "Get Started",
+  description: "We help you out business owners increase their revenue.",
+  headLine: "Lead Generation Specialist for OnLine Business",
+  topLine: "Marketing Agency",
+  alt: "Image",
+  start: "",
+  img: require("../../images/programmer.svg").default,
+};
+
+export const homeObjFour = {
+  lightBg: true,
+  primary: true,
+  imgStart: "start",
+  lightTopLine: false,
+  lightText: false,
+  lightTextDesc: false,
+  buttonLabel: "Get Started",
+  description: "We help you out business owners increase their revenue.",
+  headLine: "Lead Generation Specialist for OnLine Business",
+  topLine: "Support",
+  alt: "Image",
+  start: "true",
+  img: require("../../images/svg1.svg").default,
+};
